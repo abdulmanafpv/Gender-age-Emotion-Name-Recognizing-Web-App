@@ -51,7 +51,7 @@ For creating Gender, Race, Emotion and Name Predicting Web APP I used:
 ![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
 ![download](https://user-images.githubusercontent.com/84491967/167351859-971ec4a4-ab38-4f4e-867e-076359c749f9.png)
 ![tf-lite-in-renode_TF-blog](https://user-images.githubusercontent.com/84491967/168413228-1fa46f4b-1c8b-472b-a1c6-ecad92966019.png)
-![s-l1600](https://user-images.githubusercontent.com/84491967/168413316-d681ebe0-a973-4cfd-b81b-ec0cdf010415.png)
+
 
 
 
